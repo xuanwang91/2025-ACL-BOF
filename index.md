@@ -3,57 +3,74 @@ title: Home
 layout: page
 ---
 
-# Foundation Models for Science Big Data
+# 2025 CCI Workshop: AI for Science with Foundation Models
 
-Time: **Dec 15-18, 2024**
+Time: **12:30 PM - 3:00 PM ET, Thursday, May 1st, 2025**
 
-Location: **Washington D.C., USA**
+Location: **Data and Decision Sciences Building, Room 366, Virginia Tech**
 
-{% include figure.html img="front-page.jpg" alt="intro image here" width="100%" %}
+Zoom Link: **[https://virginiatech.zoom.us/j/8682759193](https://virginiatech.zoom.us/j/8682759193)**
 
-## Introduction
-The capabilities of foundation models for science big data span a wide spectrum, from the atomic level, where it solves partial differential equations for quantum systems, to the molecular level, predicting chemical or protein structures, and further extending to societal predictions like infectious disease outbreaks. However, there remain significant challenges to unlock the full potential of foundation models for scientific discovery, such as ensuring trustworthiness, achieving personalization, and adapting to multi-modal data representation. This workshop welcomes a wide range of contributions involving developing, analyzing, or applying foundation models for science big data spanning across various domains (e.g., biomedicine, chemistry, math, physics, material science, and geography) and various modalities (e.g., text, images, tables, graphs, and time series).
 
-## Submission
-We accept both **long papers** (up to 10 pages in IEEE 2-column format, including references) and **short papers** (up to 5 pages in IEEE 2-column format, including references). Papers should be formatted to [IEEE Computer Society Proceedings Manuscript Formatting Guidelines](https://www.ieee.org/conferences/publishing/templates.html). Submissions that do not adhere to the format requirements will be **rejected without review**.
+## Workshop at a Glance
+The capabilities of foundation models for science big data span a wide spectrum, from the atomic level, where it solves partial differential equations for quantum systems, to the molecular level, predicting chemical or protein structures, and further extending to societal predictions like infectious disease outbreaks. However, there remain significant challenges to unlock the full potential of foundation models for scientific discovery, such as ensuring trustworthiness, achieving personalization, and adapting to multi-modal data representation. This workshop aims to inspire and empower CCI researchers interested in real-world science and healthcare applications, AI, and machine learning to explore new ideas and discuss recent research challenges in related areas. 
 
-**The submission system**: [On-Line Paper Submission](https://wi-lab.com/cyberchair/2024/bigdata24/scripts/submit.php?subarea=S19&undisplay_detail=1&wh=/cyberchair/2024/bigdata24/scripts/ws_submit.php).
 
-## Review
-The review process is **single-blind**, meaning that reviewers remain anonymous, but authors are not. All papers accepted for this workshop will be included in the Workshop Proceedings published by the IEEE Computer Society Press and made available at the IEEE Big Data 2024 Conference. Each accepted paper is required to have **at least one author** register and present the work at the workshop during the IEEE Big Data 2024 Conference.
+## Registration
+We highly recommend that people attend our workshop in person, as this will facilitate research discussion with all speakers and other participants. Registration is free but required for everyone who plans to attend the workshop, either in person or on Zoom. The registration information will be leveraged for us to book a room and gather statistics for further enhancements.
 
-## Authorship
-The list of authors for submissions must comprise individuals who have made significant contributions to the work presented. The author list, including the order, cannot be altered after submission.
+The registration deadline is **Sunday, April 27, 2025**. Here is the registration link: [**Registration**](https://docs.google.com/forms/d/e/1FAIpQLSfglmDaF_TCaKWbVivQV4LXLORHOkpKnEn_JaIWet_DmtXySQ/viewform?usp=dialog).
 
-## Ethics Statement
-We strongly encourage all authors to include an explicit ethics statement regarding the broader impact of their work or any other ethical considerations. This statement should be positioned after the conclusion but before the references. The ethics statement will not be counted toward the page limits for submissions.
 
-## Supplementary Materials
-You have the option to include unlimited pages of appendices at the end of your submission, following the references. Appendices should be used to provide additional support for the findings and points presented in the main content but should not be necessary to grasp the core contributions of your work.
+## Workshop Schedule
+Below is a tentative schedule for our workshop. We look forward to seeing everyone at the workshop!
 
-For software (source codes) or data, as our submission process is single-blind, we encourage you to host them in public repositories, such as GitHub, and provide links for reference.
+<!--
+|  Time | Event |
+| -------- | ------- |
+| 12:30 PM - 1 PM  | **Student Research Highlights**  <br> 1. _HippoFlow: Personalized Linguistic Embeddings for Predicting SMS Authorship and Personality Traits_, Rhys Jones, Mikey Harrigan, Carissa Bostian <br> 2. _Deep Learning Surrogate Model for Property Prediction of Metal Organic Frameworks_, Padmapriya Rengasamy, Atharva Anchalwar <br> 3. _2-D Rocket Landing Using Reinforcement Learning_, Jordan Holmes, Adam Lee, Rayan Bouhal |
+| 1 PM - 2 PM | Invited Talk: [**Zijian Zhang**](https://www.linkedin.com/in/zijian-zhang-uoft/?originalSubdomain=ca), Ph.D. Student, Vector Institute at the University of Toronto, _AI Agents for Quantum Experiments_ |
+| 2 PM - 3 PM | Invited Talk: [**Dr. Guangyu Wang**](https://guangyuwanglab.github.io/web/), Director of Center for Bioinformatics and Computational Biology (CB2), Associate Professor of Computational Biology, Houston Methodist, Weill Cornell Medical College, _Foundation Models for Multi-Omics and Spatial Omics_ |
+|  |  |
+-->
 
-## Research Topics
-We consider a broad range of subject areas focused on foundation models for science big data. A non-exhaustive list of topics of interest includes:
-- **Science Domains**: biomedicine, chemistry, math, physics, material science, geography, ...
-- **Data Modalities**: text, images, tables, graphs, time series, domain-specific data, ...
-- **Model Life-cycle**: development, analysis, and applications, ... 
-- **Evaluation**: benchmarks, scalable oversight, evaluation protocols and metrics, human and/or machine evaluation, ...
-- **Trustworthiness**: factuality, groundedness, uncertainty, explainability, bias and safety, security, privacy, robustness, ... 
-- **Compute Efficiency**: distillation, compression, quantization, sample efficient methods, memory efficient methods, ... 
-- **Engineering**: distributed training and inference on different hardware setups, training dynamics, optimization instability, ... 
-- **Learning Algorithms**: learning, unlearning, meta-learning, model mixing methods, continual learning, ...
-- **Inference Algorithms**: decoding algorithms, reasoning algorithms, search algorithms, planning algorithms, ...
-- **Tools and Code**: pre-trained foundation models, integration with tools and APIs, LM-driven software engineering ...
+<table style="table-layout: fixed; width: 100%; border: 1px solid black; border-collapse: collapse; margin-bottom: 32px;">
+  <thead>
+    <tr>
+      <th style="width: 160px; border: 1px solid black; padding: 8px; text-align: center; background-color: #f2f2f2;">Time</th>
+      <th style="border: 1px solid black; padding: 8px; text-align: center; background-color: #f2f2f2;">Event</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">12:30 PM - 1 PM</td>
+      <td style="border: 1px solid black; padding: 8px;">
+        <b>Student Research Highlights:</b>
+        <ul style="margin: 8px 0 0 16px; padding-left: 0;">
+          <li><i>HippoFlow: Personalized Linguistic Embeddings for Predicting SMS Authorship and Personality Traits</i>. Rhys Jones, Mikey Harrigan, Carissa Bostian</li>
+          <li><i>Deep Learning Surrogate Model for Property Prediction of Metal Organic Frameworks</i>. Padmapriya Rengasamy, Atharva Anchalwar</li>
+          <li><i>2-D Rocket Landing Using Reinforcement Learning</i>. Jordan Holmes, Adam Lee, Rayan Bouhal</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px; background-color: #f2f2f2;">1 PM - 2 PM</td>
+      <td style="border: 1px solid black; padding: 8px; background-color: #f2f2f2;"><b>Invited Talk: <a href="https://www.linkedin.com/in/zijian-zhang-uoft/?originalSubdomain=ca">Zijian Zhang</a></b>, Ph.D. Student, Vector Institute at the University of Toronto, <b><i>AI Agents for Quantum Experiments</i></b></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">2 PM - 3 PM</td>
+      <td style="border: 1px solid black; padding: 8px;"><b>Invited Talk: <a href="https://guangyuwanglab.github.io/web/">Dr. Guangyu Wang</a></b>, Director of Center for Bioinformatics and Computational Biology (CB2), Associate Professor of Computational Biology, Houston Methodist, Weill Cornell Medical College, <b><i>Foundation Models for Multi-Omics and Spatial Omics</i></b></td>
+    </tr>
+  </tbody>
+</table>
 
-## Important Dates
-- **Oct 1, 2024**: Due date for full workshop papers submission 
-- **Nov 4, 2024**: Notification of paper acceptance to authors
-- **Nov 20, 2024**: Camera-ready of accepted papers
-- **Dec 15-18, 2024**: Workshop date (TBD)
 
-## Program Chairs
-- **[Xuan Wang](https://xuanwang91.github.io/)**, Virginia Tech
-- **[Qi Li](https://sites.google.com/iastate.edu/qili/home?authuser=0)**, Iowa State University
-- **[Yu Zhang](https://yuzhimanhua.github.io/)**, University of Illinois Urbana-Champaign
-  
+## Organizers
+- [**Xuan Wang**](https://xuanwang91.github.io/), Assistant Professor, Department of Computer Science, Virginia Tech
+- [**Jun Hou**](https://www.linkedin.com/in/jun-hou-1392b8149/), PhD Student, Department of Computer Science, Virginia Tech
+
+
+## Sponsor
+[**Commonwealth Cyber Initiative (CCI)**](https://cyberinitiative.org/)
+
+{% include figure.html img="cci.png" alt="intro image here" width="60%" align="left" %}
