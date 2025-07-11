@@ -17,7 +17,7 @@ Recent advances in large language models (LLMs) have opened up new opportunities
 ## Pre-Event Survey
 This 90-minute participant-driven session aims to foster meaningful discussion and collaboration across NLP, cognitive science, and computational social science communities. In addition to open discussion (welcoming everyone!), we are also looking for participants who might be interested in:
 
-1. Giving a s**hort lightning talk** during the BoF
+1. Giving a **short lightning talk** during the BoF
 2. Collaborating on a **potential position paper** after event
 3. Helping organize a **follow-up workshop** (targeting ACL 2026)
 
