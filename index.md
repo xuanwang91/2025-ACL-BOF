@@ -21,7 +21,7 @@ This 90-minute participant-driven session aims to foster meaningful discussion a
 
 1. Giving a **short lightning talk** during the BoF
 2. Collaborating on a **potential position paper** after event
-3. Helping organize a **follow-up workshop** (targeting ACL 2026)
+3. Helping organize a **follow-up workshop** (e.g., ACL 2026)
 
 To help us prepare and coordinate, especially if you are interested in any of the above activities, please fill out this short survey: [**Pre-Event Survey**](https://docs.google.com/forms/d/e/1FAIpQLSfMj6X4RXfGgJPRjXpRDo1EEmE1TgEtGZ2V9yEArkJ_RvfyLA/viewform?usp=header). The survey deadline is **Sunday, July 27, 2025**. 
 
