@@ -3,27 +3,29 @@ title: Home
 layout: page
 ---
 
-# 2025 CCI Workshop: AI for Science with Foundation Models
+# ACL 2025 BoF: Bridging Human Study and LLM Agents for Social Simulation
 
-Time: **12:30 PM - 3:00 PM ET, Thursday, May 1st, 2025**
+Time: **Tuesday, July 29, 2025, 16:00 - 17:30 PM Vienna (10:00 – 11:30 AM ET / 9:00 – 10:30 AM CT / 7:00 – 8:30 AM PT)**
 
-Location: **Data and Decision Sciences Building, Room 366, Virginia Tech**
+Location: **Online via Underline (Open to all ACL 2025 participants)**
 
-Zoom Link: **[https://virginiatech.zoom.us/j/8682759193](https://virginiatech.zoom.us/j/8682759193)**
+{% include figure.html img="cci.png" alt="intro image here" width="60%" align="left" %}
+
+## Event Description
+Recent advances in large language models (LLMs) have opened up new opportunities for simulating complex human behaviors and interactions at scale. These capabilities offer exciting potential for conducting large-scale social simulations, enabling researchers to explore hypotheses in social science, psychology, political science, and more. However, critical gaps remain between traditional empirical human studies and LLM-driven agent simulations. This BoF aims to bring together researchers across NLP, social sciences, HCI, and AI ethics to discuss key questions: How can we ensure that LLM agents faithfully represent human behaviors? What are the methodological, ethical, and technical challenges in integrating human data and LLM simulations? How can social simulations with LLMs complement or extend human subject research?
+
+## Pre-Event Survey
+This 90-minute participant-driven session aims to foster meaningful discussion and collaboration across NLP, cognitive science, and computational social science communities. In addition to participating in discussions (open to everyone!), we are also looking for people who might be interested in:
+
+1. Giving a s**hort lightning talk** during the BoF
+2. Collaborating on a **potential position paper** after event
+3. Helping organize a **follow-up workshop** (targeting ACL 2026)
+
+To help us prepare for this event, especially if you are interested in the above activities, please fill out this short survey: [**Pre-Event Survey**](https://docs.google.com/forms/d/e/1FAIpQLSfMj6X4RXfGgJPRjXpRDo1EEmE1TgEtGZ2V9yEArkJ_RvfyLA/viewform?usp=header). The survey deadline is **Sunday, July 27, 2025**. 
 
 
-## Workshop at a Glance
-The capabilities of foundation models for science big data span a wide spectrum, from the atomic level, where it solves partial differential equations for quantum systems, to the molecular level, predicting chemical or protein structures, and further extending to societal predictions like infectious disease outbreaks. However, there remain significant challenges to unlock the full potential of foundation models for scientific discovery, such as ensuring trustworthiness, achieving personalization, and adapting to multi-modal data representation. This workshop aims to inspire and empower CCI researchers interested in real-world science and healthcare applications, AI, and machine learning to explore new ideas and discuss recent research challenges in related areas. 
-
-
-## Registration
-We highly recommend that people attend our workshop in person, as this will facilitate research discussion with all speakers and other participants. Registration is free but required for everyone who plans to attend the workshop, either in person or on Zoom. The registration information will be leveraged for us to book a room and gather statistics for further enhancements.
-
-The registration deadline is **Sunday, April 27, 2025**. Here is the registration link: [**Registration**](https://docs.google.com/forms/d/e/1FAIpQLSfglmDaF_TCaKWbVivQV4LXLORHOkpKnEn_JaIWet_DmtXySQ/viewform?usp=dialog).
-
-
-## Workshop Schedule
-Below is a tentative schedule for our workshop. We look forward to seeing everyone at the workshop!
+## Event Schedule
+Below is a tentative schedule for our BoF Session. We look forward to seeing everyone at the ACL this year!
 
 <!--
 |  Time | Event |
@@ -67,10 +69,5 @@ Below is a tentative schedule for our workshop. We look forward to seeing everyo
 
 ## Organizers
 - [**Xuan Wang**](https://xuanwang91.github.io/), Assistant Professor, Department of Computer Science, Virginia Tech
-- [**Jun Hou**](https://www.linkedin.com/in/jun-hou-1392b8149/), PhD Student, Department of Computer Science, Virginia Tech
-
-
-## Sponsor
-[**Commonwealth Cyber Initiative (CCI)**](https://cyberinitiative.org/)
-
-{% include figure.html img="cci.png" alt="intro image here" width="60%" align="left" %}
+- [**Priya Pitre**](https://priyapitre.github.io/), PhD Student, Department of Computer Science, Virginia Tech
+- [**Gaurav Srivastava**](https://ctrl-gaurav.github.io/), MS Student, Department of Computer Science, Virginia Tech
