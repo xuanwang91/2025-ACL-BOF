@@ -5,7 +5,9 @@ layout: page
 
 # ACL 2025 BoF: Bridging Human Study and LLM Agents for Social Simulation
 
-Time: **Tuesday, July 29, 2025, 16:00 - 17:30 PM Vienna (10:00 – 11:30 AM ET / 9:00 – 10:30 AM CT / 7:00 – 8:30 AM PT)**
+Date: **Tuesday, July 29, 2025**
+
+Time: **16:00 - 17:30 PM Vienna (10:00 – 11:30 AM ET / 9:00 – 10:30 AM CT / 7:00 – 8:30 AM PT)**
 
 Location: **Online via Underline (Open to all ACL 2025 participants)**
 
