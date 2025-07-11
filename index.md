@@ -15,27 +15,21 @@ Location: **Online via Underline (Open to all ACL 2025 participants)**
 Recent advances in large language models (LLMs) have opened up new opportunities for simulating complex human behaviors and interactions at scale. These capabilities offer exciting potential for conducting large-scale social simulations, enabling researchers to explore hypotheses in social science, psychology, political science, and more. However, critical gaps remain between traditional empirical human studies and LLM-driven agent simulations. This BoF aims to bring together researchers across NLP, social sciences, HCI, and AI ethics to discuss key questions: How can we ensure that LLM agents faithfully represent human behaviors? What are the methodological, ethical, and technical challenges in integrating human data and LLM simulations? How can social simulations with LLMs complement or extend human subject research?
 
 ## Pre-Event Survey
-This 90-minute participant-driven session aims to foster meaningful discussion and collaboration across NLP, cognitive science, and computational social science communities. In addition to participating in discussions (open to everyone!), we are also looking for people who might be interested in:
+This 90-minute participant-driven session aims to foster meaningful discussion and collaboration across NLP, cognitive science, and computational social science communities. In addition to open discussion (welcoming everyone!), we are also looking for participants who might be interested in:
 
 1. Giving a s**hort lightning talk** during the BoF
 2. Collaborating on a **potential position paper** after event
 3. Helping organize a **follow-up workshop** (targeting ACL 2026)
 
-To help us prepare for this event, especially if you are interested in the above activities, please fill out this short survey: [**Pre-Event Survey**](https://docs.google.com/forms/d/e/1FAIpQLSfMj6X4RXfGgJPRjXpRDo1EEmE1TgEtGZ2V9yEArkJ_RvfyLA/viewform?usp=header). The survey deadline is **Sunday, July 27, 2025**. 
+To help us prepare and coordinate, especially if you are interested in any of the above activities, please fill out this short survey: [**Pre-Event Survey**](https://docs.google.com/forms/d/e/1FAIpQLSfMj6X4RXfGgJPRjXpRDo1EEmE1TgEtGZ2V9yEArkJ_RvfyLA/viewform?usp=header). The survey deadline is **Sunday, July 27, 2025**. 
 
 
 ## Event Schedule
 Below is a tentative schedule for our BoF Session. We look forward to seeing everyone at the ACL this year!
 
-<!--
-|  Time | Event |
-| -------- | ------- |
-| 12:30 PM - 1 PM  | **Student Research Highlights**  <br> 1. _HippoFlow: Personalized Linguistic Embeddings for Predicting SMS Authorship and Personality Traits_, Rhys Jones, Mikey Harrigan, Carissa Bostian <br> 2. _Deep Learning Surrogate Model for Property Prediction of Metal Organic Frameworks_, Padmapriya Rengasamy, Atharva Anchalwar <br> 3. _2-D Rocket Landing Using Reinforcement Learning_, Jordan Holmes, Adam Lee, Rayan Bouhal |
-| 1 PM - 2 PM | Invited Talk: [**Zijian Zhang**](https://www.linkedin.com/in/zijian-zhang-uoft/?originalSubdomain=ca), Ph.D. Student, Vector Institute at the University of Toronto, _AI Agents for Quantum Experiments_ |
-| 2 PM - 3 PM | Invited Talk: [**Dr. Guangyu Wang**](https://guangyuwanglab.github.io/web/), Director of Center for Bioinformatics and Computational Biology (CB2), Associate Professor of Computational Biology, Houston Methodist, Weill Cornell Medical College, _Foundation Models for Multi-Omics and Spatial Omics_ |
-|  |  |
--->
+TBD
 
+<!--
 <table style="table-layout: fixed; width: 100%; border: 1px solid black; border-collapse: collapse; margin-bottom: 32px;">
   <thead>
     <tr>
@@ -65,7 +59,7 @@ Below is a tentative schedule for our BoF Session. We look forward to seeing eve
     </tr>
   </tbody>
 </table>
-
+-->
 
 ## Organizers
 - [**Xuan Wang**](https://xuanwang91.github.io/), Assistant Professor, Department of Computer Science, Virginia Tech
