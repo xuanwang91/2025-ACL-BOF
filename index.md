@@ -7,7 +7,7 @@ layout: page
 
 Date: **Tuesday, July 29, 2025**
 
-Time: **16:00 - 17:30 PM Vienna (10:00 – 11:30 AM ET / 9:00 – 10:30 AM CT / 7:00 – 8:30 AM PT)**
+Time: **16:00 - 17:30 PM in Vienna Time (10:00 – 11:30 AM ET / 9:00 – 10:30 AM CT / 7:00 – 8:30 AM PT in US Time)**
 
 Location: **Online via Underline (Open to all ACL 2025 participants)**
 
