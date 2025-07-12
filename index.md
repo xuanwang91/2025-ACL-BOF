@@ -65,5 +65,9 @@ TBD
 
 ## Organizers
 - [**Xuan Wang**](https://xuanwang91.github.io/), Assistant Professor, Department of Computer Science, Virginia Tech
+- [**Naren Ramakrishnan**](https://sanghani.cs.vt.edu/person/naren-ramakrishnan.html), Thomas L. Phillips Professor, Department of Computer Science, Virginia Tech
+- [**Chris North**](https://wordpress.cs.vt.edu/infovis/), Professor, Department of Computer Science, Virginia Tech
+- [**Le Wang**](https://aaec.vt.edu/people/faculty/lwang.html), David M. Kohl Chair and Professor, Department of Agricultural and Applied Economics, Virginia Tech
+- [**Yun Huang**](https://ischool.illinois.edu/people/yun-huang), Associate Professor, School of Information Sciences, University of Illinois at Urbana-Champaign
 - [**Priya Pitre**](https://priyapitre.github.io/), PhD Student, Department of Computer Science, Virginia Tech
 - [**Gaurav Srivastava**](https://ctrl-gaurav.github.io/), MS Student, Department of Computer Science, Virginia Tech
