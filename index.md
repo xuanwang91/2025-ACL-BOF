@@ -27,8 +27,12 @@ To help us prepare and coordinate, especially if you are interested in any of th
 
 
 ## Invited Speakers
-Below is a tentative schedule for our BoF Session. We look forward to seeing everyone at the ACL this year!
-
+- [**Xuan Wang (Moderator)**](https://xuanwang91.github.io/), Assistant Professor, Computer Science, Virginia Tech
+- [**Paul Liang**](https://pliang279.github.io/), Assistant Professor, MIT Media Lab, MIT EECS
+- [**Hao Zhu**](https://www.zhuhao.me/),Postdoc, Computer Science, Stanford University
+- [**Zhen Wang**](https://zhenwang9102.github.io/), Zhen Wang, Postdoc, Computer Science, UC San Diego
+- [**Shumiao Ouyang**](https://www.shumiaoouyang.com/), Associate Professor, Saïd Business School, University of Oxford
+- [**Xiaojing Dong**](https://xjdong.github.io/), Associate Professor, Marketing, Santa Clara University 
 
 ## Organizers
 - [**Xuan Wang**](https://xuanwang91.github.io/), Assistant Professor, Department of Computer Science, Virginia Tech
