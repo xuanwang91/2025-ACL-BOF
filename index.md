@@ -11,7 +11,7 @@ Date: **Tuesday, July 29, 2025**
 
 Time: **16:00 - 17:30 PM in Vienna Time (10:00 – 11:30 AM ET / 9:00 – 10:30 AM CT / 7:00 – 8:30 AM PT in US Time)**
 
-Location: **Online via Underline (https://us06web.zoom.us/j/81864504603?pwd=cjvK4uCYYMd1AvKcpaqNI0LFRq5bDL.1)**
+Location: **[Online via Underline](https://us06web.zoom.us/j/81864504603?pwd=cjvK4uCYYMd1AvKcpaqNI0LFRq5bDL.1)**
 
 ## Event Description
 Recent advances in large language models (LLMs) have opened up new opportunities for simulating complex human behaviors and interactions at scale. These capabilities offer exciting potential for conducting large-scale social simulations, enabling researchers to explore hypotheses in social science, psychology, political science, and more. However, critical gaps remain between traditional empirical human studies and LLM-driven agent simulations. This BoF aims to bring together researchers across NLP, social sciences, HCI, and AI ethics to discuss key questions: How can we ensure that LLM agents faithfully represent human behaviors? What are the methodological, ethical, and technical challenges in integrating human data and LLM simulations? How can social simulations with LLMs complement or extend human subject research?
