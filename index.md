@@ -5,7 +5,7 @@ layout: page
 
 # ACL 2025 BoF: Bridging Human Study and LLM Agents for Social Simulation
 
-{% include figure.html img="bof.png" alt="intro image here" width="100%" align="left" %}
+{% include figure.html img="ACL25_BOF.pdf" alt="intro image here" width="100%" align="left" %}
 
 Date: **Tuesday, July 29, 2025**
 
