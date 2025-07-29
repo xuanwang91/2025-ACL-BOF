@@ -27,12 +27,17 @@ To help us prepare and coordinate, especially if you are interested in any of th
 
 
 ## Invited Speakers
+We have put together a fantastic panel featuring an amazing lineup of speakers who are leaders in LLM agents and social studies. They will be sharing their insights and answering audience questions during the panel discussion.
+
 - [**Xuan Wang (Moderator)**](https://xuanwang91.github.io/), Assistant Professor, Computer Science, Virginia Tech
 - [**Paul Liang**](https://pliang279.github.io/), Assistant Professor, MIT Media Lab, MIT EECS
 - [**Hao Zhu**](https://www.zhuhao.me/), Postdoc, Computer Science, Stanford University
 - [**Zhen Wang**](https://zhenwang9102.github.io/), Postdoc, Computer Science, UC San Diego
 - [**Shumiao Ouyang**](https://www.shumiaoouyang.com/), Associate Professor, Saïd Business School, University of Oxford
 - [**Xiaojing Dong**](https://xjdong.github.io/), Associate Professor, Marketing, Santa Clara University 
+
+We look forward to building this community and seeing you at ACL 2025! 
+
 
 ## Organizers
 - [**Xuan Wang**](https://xuanwang91.github.io/), Assistant Professor, Department of Computer Science, Virginia Tech
